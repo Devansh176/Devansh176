@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an innovative Wallpaper App<br>🌱 Exploring and learning Flutter for cross-platform mobile development and Spring Boot for building robust backend services<br>🤝 I’m open to discovering APIs that enhance mobile app functionalities and user experiences—always seeking out new resources to elevate my app development journey
+🌱 Exploring and learning Flutter for cross-platform mobile development and Spring Boot for building robust backend services<br>🤝 I’m open to discovering APIs that enhance mobile app functionalities and user experiences—always seeking out new resources to elevate my app development journey
 
 
 ## 🌐 Socials:
